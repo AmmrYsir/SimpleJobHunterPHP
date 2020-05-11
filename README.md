@@ -1,0 +1,2 @@
+# SimpleJobHunterPHP
+ Web based - dynamic
