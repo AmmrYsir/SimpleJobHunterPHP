@@ -60,6 +60,54 @@
                         <td>RM2000-RM2500</td>
                         <td><a class="btn btn-success btn-sm" href="#">Apply</a></td>
                     </tr>
+                    <tr>
+                        <th scope="row">4</th>
+                        <td>Web Developer</td>
+                        <td>GATES IT Solution Sdn Bhd</td>
+                        <td>Universiti Putra Malaysia, Block D-G-5, UPM-MTDC Technology Center III, Lebuh Silikon, 43400 Serdang, Selangor</td>
+                        <td>RM2000-RM2500</td>
+                        <td><a class="btn btn-success btn-sm" href="#">Apply</a></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">5</th>
+                        <td>Web Developer</td>
+                        <td>GATES IT Solution Sdn Bhd</td>
+                        <td>Universiti Putra Malaysia, Block D-G-5, UPM-MTDC Technology Center III, Lebuh Silikon, 43400 Serdang, Selangor</td>
+                        <td>RM2000-RM2500</td>
+                        <td><a class="btn btn-success btn-sm" href="#">Apply</a></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">6</th>
+                        <td>Web Developer</td>
+                        <td>GATES IT Solution Sdn Bhd</td>
+                        <td>Universiti Putra Malaysia, Block D-G-5, UPM-MTDC Technology Center III, Lebuh Silikon, 43400 Serdang, Selangor</td>
+                        <td>RM2000-RM2500</td>
+                        <td><a class="btn btn-success btn-sm" href="#">Apply</a></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">7</th>
+                        <td>Web Developer</td>
+                        <td>GATES IT Solution Sdn Bhd</td>
+                        <td>Universiti Putra Malaysia, Block D-G-5, UPM-MTDC Technology Center III, Lebuh Silikon, 43400 Serdang, Selangor</td>
+                        <td>RM2000-RM2500</td>
+                        <td><a class="btn btn-success btn-sm" href="#">Apply</a></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">8</th>
+                        <td>Web Developer</td>
+                        <td>GATES IT Solution Sdn Bhd</td>
+                        <td>Universiti Putra Malaysia, Block D-G-5, UPM-MTDC Technology Center III, Lebuh Silikon, 43400 Serdang, Selangor</td>
+                        <td>RM2000-RM2500</td>
+                        <td><a class="btn btn-success btn-sm" href="#">Apply</a></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">9</th>
+                        <td>Web Developer</td>
+                        <td>GATES IT Solution Sdn Bhd</td>
+                        <td>Universiti Putra Malaysia, Block D-G-5, UPM-MTDC Technology Center III, Lebuh Silikon, 43400 Serdang, Selangor</td>
+                        <td>RM2000-RM2500</td>
+                        <td><a class="btn btn-success btn-sm" href="#">Apply</a></td>
+                    </tr>
                 </tbody>
             </table>
         </div>
