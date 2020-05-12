@@ -23,7 +23,7 @@
         </section>
     </header>
     <main>
-        <div class="container-fluid">
+        <div class="table-responsive-sm p-2">
             <table class="table table-striped">
                 <thead class="thead-dark">
                     <tr>
@@ -111,6 +111,15 @@
                 </tbody>
             </table>
         </div>
+        <nav aria-label="Pagination" class="d-flex justify-content-center">
+            <ul class="pagination">
+                <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                <li class="page-item"><a class="page-link" href="#">Next</a></li>
+            </ul>
+        </nav>
     </main>
 <?php $content = ob_get_clean(); ?>
 

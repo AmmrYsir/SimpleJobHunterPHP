@@ -4,3 +4,12 @@
     letter-spacing: 2px;
 }
 
+.pagination > li > a{
+    color: #343A40 !important;
+}
+
+.pagination > .active > a {
+    background-color: #343A40 !important;
+    color: white !important;
+    border: none;
+}
