@@ -11,7 +11,7 @@
             <a class="navbar-brand" href="#"><em class="fas fa-user-ninja"></em> SimpleJobHunter</a>
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Sign In <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="register.php">Sign In <span class="sr-only">(current)</span></a>
                 </li>
             </ul>
         </nav>
@@ -114,7 +114,7 @@
         <nav aria-label="Pagination" class="d-flex justify-content-center">
             <ul class="pagination">
                 <li class="page-item"><a class="page-link" href="#">Previous</a></li>
-                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                <li class="page-item active"><a class="page-link" href="#">1</a></li>
                 <li class="page-item"><a class="page-link" href="#">2</a></li>
                 <li class="page-item"><a class="page-link" href="#">3</a></li>
                 <li class="page-item"><a class="page-link" href="#">Next</a></li>
