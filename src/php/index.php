@@ -23,7 +23,46 @@
         </section>
     </header>
     <main>
-        
+        <div class="container-fluid">
+            <table class="table table-striped">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col">Job ID</th>
+                        <th scope="col">Position</th>
+                        <th scope="col">Company</th>
+                        <th scope="col">Address</th>
+                        <th scope="col">Salary Expected</th>
+                        <th scope="col">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <td>Web Developer</td>
+                        <td>GATES IT Solution Sdn Bhd</td>
+                        <td>Universiti Putra Malaysia, Block D-G-5, UPM-MTDC Technology Center III, Lebuh Silikon, 43400 Serdang, Selangor</td>
+                        <td>RM2000-RM2500</td>
+                        <td><a class="btn btn-success btn-sm" href="#">Apply</a></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td>Web Developer</td>
+                        <td>GATES IT Solution Sdn Bhd</td>
+                        <td>Universiti Putra Malaysia, Block D-G-5, UPM-MTDC Technology Center III, Lebuh Silikon, 43400 Serdang, Selangor</td>
+                        <td>RM2000-RM2500</td>
+                        <td><a class="btn btn-success btn-sm" href="#">Apply</a></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td>Web Developer</td>
+                        <td>GATES IT Solution Sdn Bhd</td>
+                        <td>Universiti Putra Malaysia, Block D-G-5, UPM-MTDC Technology Center III, Lebuh Silikon, 43400 Serdang, Selangor</td>
+                        <td>RM2000-RM2500</td>
+                        <td><a class="btn btn-success btn-sm" href="#">Apply</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     </main>
 <?php $content = ob_get_clean(); ?>
 
