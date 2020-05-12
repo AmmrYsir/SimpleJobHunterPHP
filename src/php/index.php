@@ -11,7 +11,7 @@
             <a class="navbar-brand" href="#"><em class="fas fa-user-ninja"></em> SimpleJobHunter</a>
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="register.php">Sign In <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="login.php">Sign In <span class="sr-only">(current)</span></a>
                 </li>
             </ul>
         </nav>
