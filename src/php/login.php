@@ -2,7 +2,7 @@
     $title = 'SimpleJobHunter | Daftar Masuk Segera!';
     $style = '<link rel="stylesheet" href="../css/login.css">';
 ?>
-
+    
 <?php ob_start() ?>
     <header>
         <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
